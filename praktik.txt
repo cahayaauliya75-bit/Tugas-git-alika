@@ -1,1 +1,2 @@
-push untuk mengirim pesan ke git hub
+push untuk mengirim pesan ke git hub 
+git fetch
